@@ -19,18 +19,27 @@ Backend Software Engineer with 3+ years of programming and software development 
 <a href="https://www.linkedin.com/in/tatapologgo-nicholas-moiliwa" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></picture></a>
 </p>
 
-### Badges
-
-**My GitHub Stats**
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=unknownT12&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="UnknownT12's GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=unknownT12&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="UnknownT12's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownT12&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="UnknownT12's top languages" />
-</p>
+### Badges                                                                                                                                                           
+                                                                                                                                                                       
+  **My GitHub Stats**                                                                                                                                                  
+                                                                                                                                                                       
+  <p align="center">                                                                                                                                                   
+    <img src="https://img.shields.io/badge/Contributions%20(last%2012%20months)-903-0891b2?style=for-the-badge&labelColor=1c1917" alt="903 contributions in the last 12
+  months" />                                                                                                                                                           
+    <img src="https://img.shields.io/badge/Public%20repositories-17-0891b2?style=for-the-badge&labelColor=1c1917" alt="17 public repositories" />                      
+    <img src="https://img.shields.io/badge/Primary%20stack-TypeScript%20%C2%B7%20Java%20%C2%B7%20Rust-0891b2?style=for-the-badge&labelColor=1c1917" alt="Primary stack"
+  />                                                                                                                                                                   
+  </p>                                                                                                                                                                 
+                                                                                                                                                                       
+  <p align="center">                                                                                                                                                   
+    <sub>Most of my work is in private repositories, so the figures above are stated rather than fetched — the contribution graph on my profile is the live            
+  source.</sub>                                                                                                                                                        
+  </p>                                                                                                                                                                 
+                                                                                                                                                                       
+  <p align="center">                                                                                                                                                   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownT12&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0
+  891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages%20(public%20repositories)" alt="UnknownT12's top languages" />                         
+  </p>    
 
 **Top Repositories**
 
